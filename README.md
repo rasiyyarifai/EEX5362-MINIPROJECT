@@ -12,9 +12,8 @@ The primary goal is to use system modeling to address operational challenges, sp
 
 ## 📂 Repository Contents
 
-| File Name | Description | Key Submission Component |
-| :--- | :--- | :--- |
-| `s22009939 MINI PROJECT DELIVERABLE_01.docx` | **The official submission document.** Contains the High-Level Problem Statement and the Data Set Specification (structure) required for the modeling proposal. | High-Level Problem Statement & Data Set Specification |
-| `DarazWarehouse_SimulationData.csv` | A sample dataset containing **500 simulated orders**. This data structure aligns with the specification and is intended for use in the Discrete Event Simulation (DES) model to measure performance characteristics. | Sample Simulation Data |
-
+| File Name | Description |
+| :--- | :--- | 
+| `s22009939 MINI PROJECT DELIVERABLE_01.docx` | **The official submission document.** Contains the High-Level Problem Statement and the Data Set Specification (structure) required for the modeling proposal. 
+| `DarazWarehouse_SimulationData.csv` | A sample dataset containing **500 simulated orders**. This data structure aligns with the specification and is intended for use in the Discrete Event Simulation (DES) model to measure performance characteristics. 
 ---
